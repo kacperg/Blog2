@@ -1,0 +1,67 @@
+D:\sab\Blog\Blog.DAL.Tests\bin\Debug\Blog.DAL.Tests.dll.config
+D:\sab\Blog\Blog.DAL.Tests\bin\Debug\Blog.DAL.Tests.dll
+D:\sab\Blog\Blog.DAL.Tests\bin\Debug\Blog.DAL.Tests.pdb
+D:\sab\Blog\Blog.DAL.Tests\bin\Debug\Blog.DAL.dll
+D:\sab\Blog\Blog.DAL.Tests\bin\Debug\EntityFramework.dll
+D:\sab\Blog\Blog.DAL.Tests\bin\Debug\TDD.DbTestHelpers.dll
+D:\sab\Blog\Blog.DAL.Tests\bin\Debug\YamlDotNet.Core.dll
+D:\sab\Blog\Blog.DAL.Tests\bin\Debug\YamlDotNet.RepresentationModel.dll
+D:\sab\Blog\Blog.DAL.Tests\bin\Debug\Blog.DAL.pdb
+D:\sab\Blog\Blog.DAL.Tests\bin\Debug\EntityFramework.xml
+D:\sab\Blog\Blog.DAL.Tests\bin\Debug\TDD.DbTestHelpers.pdb
+D:\sab\Blog\Blog.DAL.Tests\bin\Debug\YamlDotNet.Core.pdb
+D:\sab\Blog\Blog.DAL.Tests\bin\Debug\YamlDotNet.RepresentationModel.pdb
+D:\sab\Blog\Blog.DAL.Tests\obj\Debug\Blog.DAL.Tests.csprojResolveAssemblyReference.cache
+D:\sab\Blog\Blog.DAL.Tests\obj\Debug\Blog.DAL.Tests.dll
+D:\sab\Blog\Blog.DAL.Tests\obj\Debug\Blog.DAL.Tests.pdb
+<<<<<<< HEAD
+D:\sab\Blog2\Blog.DAL.Tests\bin\Debug\Blog.DAL.Tests.dll.config
+D:\sab\Blog2\Blog.DAL.Tests\bin\Debug\Blog.DAL.Tests.dll
+D:\sab\Blog2\Blog.DAL.Tests\bin\Debug\Blog.DAL.Tests.pdb
+D:\sab\Blog2\Blog.DAL.Tests\bin\Debug\Blog.DAL.dll
+D:\sab\Blog2\Blog.DAL.Tests\bin\Debug\EntityFramework.dll
+D:\sab\Blog2\Blog.DAL.Tests\bin\Debug\TDD.DbTestHelpers.dll
+D:\sab\Blog2\Blog.DAL.Tests\bin\Debug\YamlDotNet.Core.dll
+D:\sab\Blog2\Blog.DAL.Tests\bin\Debug\YamlDotNet.RepresentationModel.dll
+D:\sab\Blog2\Blog.DAL.Tests\bin\Debug\Blog.DAL.pdb
+D:\sab\Blog2\Blog.DAL.Tests\bin\Debug\EntityFramework.xml
+D:\sab\Blog2\Blog.DAL.Tests\bin\Debug\TDD.DbTestHelpers.pdb
+D:\sab\Blog2\Blog.DAL.Tests\bin\Debug\YamlDotNet.Core.pdb
+D:\sab\Blog2\Blog.DAL.Tests\bin\Debug\YamlDotNet.RepresentationModel.pdb
+D:\sab\Blog2\Blog.DAL.Tests\obj\Debug\Blog.DAL.Tests.csprojResolveAssemblyReference.cache
+D:\sab\Blog2\Blog.DAL.Tests\obj\Debug\Blog.DAL.Tests.dll
+D:\sab\Blog2\Blog.DAL.Tests\obj\Debug\Blog.DAL.Tests.pdb
+=======
+D:\sab\Blog - Copy\Blog.DAL.Tests\bin\Debug\Blog.DAL.Tests.dll.config
+D:\sab\Blog - Copy\Blog.DAL.Tests\bin\Debug\Blog.DAL.Tests.dll
+D:\sab\Blog - Copy\Blog.DAL.Tests\bin\Debug\Blog.DAL.Tests.pdb
+D:\sab\Blog - Copy\Blog.DAL.Tests\bin\Debug\Blog.DAL.dll
+D:\sab\Blog - Copy\Blog.DAL.Tests\bin\Debug\EntityFramework.dll
+D:\sab\Blog - Copy\Blog.DAL.Tests\bin\Debug\TDD.DbTestHelpers.dll
+D:\sab\Blog - Copy\Blog.DAL.Tests\bin\Debug\YamlDotNet.Core.dll
+D:\sab\Blog - Copy\Blog.DAL.Tests\bin\Debug\YamlDotNet.RepresentationModel.dll
+D:\sab\Blog - Copy\Blog.DAL.Tests\bin\Debug\Blog.DAL.pdb
+D:\sab\Blog - Copy\Blog.DAL.Tests\bin\Debug\EntityFramework.xml
+D:\sab\Blog - Copy\Blog.DAL.Tests\bin\Debug\TDD.DbTestHelpers.pdb
+D:\sab\Blog - Copy\Blog.DAL.Tests\bin\Debug\YamlDotNet.Core.pdb
+D:\sab\Blog - Copy\Blog.DAL.Tests\bin\Debug\YamlDotNet.RepresentationModel.pdb
+D:\sab\Blog - Copy\Blog.DAL.Tests\obj\Debug\Blog.DAL.Tests.csprojResolveAssemblyReference.cache
+D:\sab\Blog - Copy\Blog.DAL.Tests\obj\Debug\Blog.DAL.Tests.dll
+D:\sab\Blog - Copy\Blog.DAL.Tests\obj\Debug\Blog.DAL.Tests.pdb
+D:\Testblog\Blog.DAL.Tests\bin\Debug\Blog.DAL.Tests.dll.config
+D:\Testblog\Blog.DAL.Tests\bin\Debug\Blog.DAL.Tests.dll
+D:\Testblog\Blog.DAL.Tests\bin\Debug\Blog.DAL.Tests.pdb
+D:\Testblog\Blog.DAL.Tests\bin\Debug\Blog.DAL.dll
+D:\Testblog\Blog.DAL.Tests\bin\Debug\EntityFramework.dll
+D:\Testblog\Blog.DAL.Tests\bin\Debug\TDD.DbTestHelpers.dll
+D:\Testblog\Blog.DAL.Tests\bin\Debug\YamlDotNet.Core.dll
+D:\Testblog\Blog.DAL.Tests\bin\Debug\YamlDotNet.RepresentationModel.dll
+D:\Testblog\Blog.DAL.Tests\bin\Debug\Blog.DAL.pdb
+D:\Testblog\Blog.DAL.Tests\bin\Debug\EntityFramework.xml
+D:\Testblog\Blog.DAL.Tests\bin\Debug\TDD.DbTestHelpers.pdb
+D:\Testblog\Blog.DAL.Tests\bin\Debug\YamlDotNet.Core.pdb
+D:\Testblog\Blog.DAL.Tests\bin\Debug\YamlDotNet.RepresentationModel.pdb
+D:\Testblog\Blog.DAL.Tests\obj\Debug\Blog.DAL.Tests.csprojResolveAssemblyReference.cache
+D:\Testblog\Blog.DAL.Tests\obj\Debug\Blog.DAL.Tests.dll
+D:\Testblog\Blog.DAL.Tests\obj\Debug\Blog.DAL.Tests.pdb
+>>>>>>> origin/master
